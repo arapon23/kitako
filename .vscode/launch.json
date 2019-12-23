@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "Practice6.Main",
+      "projectName": "kitako_c42fa43e"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "Practice5.Main",
+      "projectName": "kitako_c42fa43e"
+    }
+  ]
+}
